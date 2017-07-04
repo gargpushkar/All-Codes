@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// INCORRECT
 struct Trie
 {
 	map<char,Trie *>child;

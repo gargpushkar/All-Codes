@@ -37,7 +37,7 @@ void makeunion(int a, int b)
 		else
 		{
 			arr[j]=i;
-			size[i]+=size[i];
+			size[i]+=size[j];
 		}
 	}
 }
